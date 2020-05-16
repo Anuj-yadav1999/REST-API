@@ -1,4 +1,4 @@
-Here This is a REST API for Travellers.
+Here This is a REST API for Travellers or visitors.
 
 All the request are here like: 
  # Getting all Travellers
